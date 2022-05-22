@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="428" height="926" fill="#f0f0f0"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#da9dff"/>
+      <stop offset="1" stop-color="#d797fc" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#722e9b"/>
+      <stop offset="1" stop-color="#d797fc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="428" height="926" fill="#f0f0f0"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="329.5" cy="329.5" r="329.5" transform="translate(-303 -130)" opacity="0.4" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="329.5" cy="329.5" r="329.5" transform="translate(99 481)" opacity="0.138" fill="url(#radial-gradient-2)"/>
+  </g>
+</svg>
